@@ -30,3 +30,7 @@ Please contact https://github.com/OZ4Tech with any questions
 ## Contact Information:
 -Email: [deaijaemungin@gmail.com]
 -GitHub: [https://github.com/OZ4Tech]
+
+## App Preview
+
+![Screen Recording 2022-09-03 at 9 52 40 PM](https://user-images.githubusercontent.com/103383531/188294014-8c8aa74f-38a8-4d0f-8598-6ee16607edd7.gif)
