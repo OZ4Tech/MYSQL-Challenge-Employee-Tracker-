@@ -13,7 +13,7 @@ Command-line application to manage a company's employee database, using Node.js,
 
 
 ## Installation
-n/a
+Enter `node server.js` into. the command line.
 
 ## Functionality
 Making sure the user is able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business.
