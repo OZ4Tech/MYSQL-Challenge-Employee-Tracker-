@@ -34,3 +34,7 @@ Please contact https://github.com/OZ4Tech with any questions
 ## App Preview
 
 ![Screen Recording 2022-09-03 at 9 52 40 PM](https://user-images.githubusercontent.com/103383531/188294014-8c8aa74f-38a8-4d0f-8598-6ee16607edd7.gif)
+
+
+https://user-images.githubusercontent.com/103383531/189464458-a1c90c83-379e-4862-9628-234d3ad8fe40.mov
+
